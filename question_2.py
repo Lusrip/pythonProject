@@ -7,3 +7,4 @@ def convert (seconds):
     seconds %= 60
     return '%d:%02d:%02d' % (hour, minutes,seconds)
 print('Результат введенного значения в формате чч:мм:сс - ', convert(time))
+exit("Спасибо что воспользовались продукцией")

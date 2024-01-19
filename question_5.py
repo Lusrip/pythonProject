@@ -13,3 +13,4 @@ while True:
    if num_v <= num_i:
     ub = print('Убыток компании - ',num_v - num_i )
     break
+exit("Спасибо что воспользовались продукцией")
